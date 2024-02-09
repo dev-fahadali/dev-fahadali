@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-fahadali
+- 👋 Hi, I’m Fahad Ali
 - 👀 I’m interested in exploring the world of Computer Science
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Projects Related to My Interest
